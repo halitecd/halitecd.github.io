@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://halitecd.github.io/sitemap.xml

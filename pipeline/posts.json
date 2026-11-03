@@ -1,0 +1,64 @@
+{
+  "posts": [
+    {
+      "id": "a-question-worth-keeping",
+      "title": "把一个问题写清楚",
+      "url": "https://halitecd.github.io/posts/a-question-worth-keeping/",
+      "genres": [
+        "essay"
+      ],
+      "topics": [
+        "thinking",
+        "research"
+      ],
+      "description": "有些写作的起点，是发现自己还不知道该问什么。",
+      "date": "2026-11-02",
+      "lang_code": "zh"
+    },
+    {
+      "id": "a-question-worth-keeping-en",
+      "title": "A question worth keeping",
+      "url": "https://halitecd.github.io/posts/a-question-worth-keeping-en/",
+      "genres": [
+        "essay"
+      ],
+      "topics": [
+        "thinking",
+        "research"
+      ],
+      "description": "A small note on the space between having an impression and making an argument.",
+      "date": "2026-11-01",
+      "lang_code": "en"
+    },
+    {
+      "id": "a-little-room",
+      "title": "留白",
+      "url": "https://halitecd.github.io/posts/a-little-room/",
+      "genres": [
+        "poem"
+      ],
+      "topics": [
+        "life",
+        "thinking"
+      ],
+      "description": "窗边还留着，一个没有写完的下午。",
+      "date": "2026-10-30",
+      "lang_code": "zh"
+    },
+    {
+      "id": "listening-to-a-pause",
+      "title": "听见停顿",
+      "url": "https://halitecd.github.io/posts/listening-to-a-pause/",
+      "genres": [
+        "essay"
+      ],
+      "topics": [
+        "music",
+        "life"
+      ],
+      "description": "一段声音结束之后，房间并没有立刻恢复原样。",
+      "date": "2026-10-28",
+      "lang_code": "zh"
+    }
+  ]
+}
