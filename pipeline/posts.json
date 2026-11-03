@@ -1,6 +1,21 @@
 {
   "posts": [
     {
+      "id": "a-little-room",
+      "title": "留白",
+      "url": "https://halitecd.github.io/posts/a-little-room/",
+      "genres": [
+        "poem"
+      ],
+      "topics": [
+        "life",
+        "thinking"
+      ],
+      "description": "窗边还留着，一个没有写完的下午。",
+      "date": "2026-10-30",
+      "lang_code": "zh"
+    },
+    {
       "id": "a-question-worth-keeping",
       "title": "把一个问题写清楚",
       "url": "https://halitecd.github.io/posts/a-question-worth-keeping/",
@@ -31,19 +46,16 @@
       "lang_code": "en"
     },
     {
-      "id": "a-little-room",
-      "title": "留白",
-      "url": "https://halitecd.github.io/posts/a-little-room/",
+      "id": "hello",
+      "title": "Halite Hello",
+      "url": "https://halitecd.github.io/posts/hello/",
       "genres": [
-        "poem"
+        "essay"
       ],
-      "topics": [
-        "life",
-        "thinking"
-      ],
-      "description": "窗边还留着，一个没有写完的下午。",
-      "date": "2026-10-30",
-      "lang_code": "zh"
+      "topics": [],
+      "description": "",
+      "date": "2026-11-03",
+      "lang_code": "en"
     },
     {
       "id": "listening-to-a-pause",
