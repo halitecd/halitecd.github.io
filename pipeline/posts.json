@@ -71,18 +71,6 @@
       "description": "一段声音结束之后，房间并没有立刻恢复原样。",
       "date": "2026-10-28",
       "lang_code": "zh"
-    },
-    {
-      "id": "n-e125a969d04c4257",
-      "title": "Test 2 Halite",
-      "url": "https://halitecd.github.io/posts/n-e125a969d04c4257/",
-      "genres": [
-        "essay"
-      ],
-      "topics": [],
-      "description": "",
-      "date": "2026-11-03",
-      "lang_code": "en"
     }
   ]
 }
